@@ -1,2 +1,11 @@
-# decision-boundary-detector
-Detect boundaries in decision spaces - https://keeprule.com
+# decision boundary detector
+
+Detect boundaries in decision spaces
+
+## Resources
+
+- [KeepRule](https://keeprule.com)
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+
+MIT - [KeepRule](https://keeprule.com)
